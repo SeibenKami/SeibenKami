@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeibenKami
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently into Flutter
 - 💞️ I’m looking to collaborate on mobile app projects
 - 📫 How to reach me email: adufrank03@gmail.com
 
