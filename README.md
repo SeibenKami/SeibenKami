@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=SeibenKami&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=SeibenKami&count_private=true&show_icons=true&theme=radical)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SeibenKami&count_private=true&show_icons=true&theme=radical) -->
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=SeibenKami)
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=SeibenKami) -->
 
 <!--START_SECTION:waka-->
 
