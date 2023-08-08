@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeibenKami
+- 👋 Hi, I’m Frank Adu
 - 👀 I’m a developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email: adufrank03@gmail.com
