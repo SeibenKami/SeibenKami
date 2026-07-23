@@ -20,7 +20,7 @@ Live in production on the App Store and Google Play.
 [App Store](https://apps.apple.com/gh/app/st%C3%BCdex-online-shopping/id6475045466) · [Google Play](https://play.google.com/store/apps/details?id=com.beistandtech.studex&pcampaignid=web_share)
 
 **[Nebula Atlas** — [Offline device vault]
-[App Store]([https://apps.apple.com/gh/app/nebula-atlas/id6755858457]) · [Google Play]([https://play.google.com/store/apps/details?id=com.beistandtech.saturn&pcampaignid=web_share])
+[App Store](https://apps.apple.com/gh/app/nebula-atlas/id6755858457) · [Google Play](https://play.google.com/store/apps/details?id=com.beistandtech.saturn&pcampaignid=web_share)
 
 📱 More at **[seibenkami.github.io/portfolio_output](https://seibenkami.github.io/portfolio_output/)**
 
