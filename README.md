@@ -11,7 +11,7 @@ Six years building and shipping production mobile apps for clients in the United
 Live in production on the App Store and Google Play.
 
 **[Safe Round]** — [ROSCA Fintech app]
-[App Store]([https://apps.apple.com/gh/app/beistand-safe-round/id6752038857]) · [Google Play]([https://play.google.com/store/apps/details?id=com.beistandtech.saferound&pcampaignid=web_share])
+[App Store](https://apps.apple.com/gh/app/beistand-safe-round/id6752038857) · [Google Play]([https://play.google.com/store/apps/details?id=com.beistandtech.saferound&pcampaignid=web_share])
 
 **[Like Me App]** — [Social App For meeting likable people]
 [App Store]([https://apps.apple.com/gh/app/like-me-app/id6753318605]) · [Google Play]([https://play.google.com/store/apps/details?id=com.beistandtech.likemeapp&pcampaignid=web_share])
